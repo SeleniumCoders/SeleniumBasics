@@ -15,7 +15,7 @@ public class SelectClass {
 		WebDriver driver;	
 		System.setProperty("webdriver.chrome.driver","F:\\Selenium\\JarFiles\\chromedriver.exe"); 				
 		driver=new ChromeDriver();        
-		driver.get("http://www.gcrit.com/build3/create_account.php");
+		driver.get("https://www.techlistic.com/p/selenium-practice-form.html#:~:text=Selenium%20Practice%20Form%20This%20is%20a%20demo%20web,page.%20This%20web%20from%20contains%20following%20web%20elements%3A");
 		driver.manage().window().maximize();
 		
 		
